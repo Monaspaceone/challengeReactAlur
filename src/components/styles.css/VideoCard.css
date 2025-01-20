@@ -1,0 +1,20 @@
+.video-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 320px;
+    margin: 10px;
+  }
+  
+  .video-card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .video-card video {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
